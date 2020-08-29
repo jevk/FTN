@@ -50,7 +50,22 @@ function loadData() {
         {"x": 2072, "y": -11314, "name": "Kongsvinger Kungsgatan"},
         {"x": 2072, "y": -11224, "name": "Kongsvinger South"},
         {"x": 2208, "y": -10900, "name": "Karlstad"},
-    
+
+        //Terra Mariana (CTM)
+        {"x": 3876, "y": -11032, "name": "Hiiumaa"},
+        {"x": 4265, "y": -11077, "name": "Tallinn Central"},
+        {"x": 4616, "y": -11077, "name": "Tallinn East"},
+        {"x": 4785, "y": -11077, "name": "Sillamae Central"},
+        {"x": 5052, "y": -11077, "name": "Sillamae Castle"},
+        {"x": 3876, "y": -10856, "name": "BlackFall Central"},
+        {"x": 3876, "y": -10746, "name": "Arensburg"},
+        {"x": 3980, "y": -10540, "name": "Siauliai North"},
+        {"x": 3980, "y": -10402, "name": "Rietavas-Siauliai"},
+        {"x": 3725, "y": -10402, "name": "Klaipeda"},
+        {"x": 3656, "y": -10278, "name": "Krolewiec"},
+        {"x": 4658, "y": -10684, "name": "Cesis"},
+        {"x": 4658, "y": -10842, "name": "Valga"},
+        {"x": 5104, "y": -10684, "name": "Pskov"},
 
     ]
 
