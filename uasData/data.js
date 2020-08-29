@@ -32,6 +32,24 @@ function loadData() {
         {"x": 4774, "y": -11893, "name": "Varkaus"},
         {"x": 4543, "y": -11424, "name": "Lahti"},
         {"x": 4388, "y": -11424, "name": "Suur-Helsinki"},
+
+        // Sweden
+        {"x": 2718, "y": -11337, "name": "Vasteras Central"},
+        {"x": 2807, "y": -11254, "name": "Vasteras South"},
+        {"x": 2848, "y": -10984, "name": "Nya Asgard Central"},
+        {"x": 2822, "y": -10839, "name": "Kalmar North"},
+        {"x": 2822, "y": -10620, "name": "Kalmar Central"},
+        {"x": 2724, "y": -10512, "name": "Karlskrona"},
+
+        {"x": 2072, "y": -11314, "name": "Kongsvinger Kungsgatan"},
+        {"x": 2533, "y": -11058, "name": "Nordfold"},
+        {"x": 2622, "y": -10984, "name": "Nya Asgard West"},
+        {"x": 2848, "y": -10984, "name": "Nya Asgard Central"},
+        {"x": 3324, "y": -10852, "name": "New Lechia North"},
+
+        {"x": 2072, "y": -11314, "name": "Kongsvinger Kungsgatan"},
+        {"x": 2072, "y": -11224, "name": "Kongsvinger South"},
+        {"x": 2208, "y": -10900, "name": "Karlstad"},
     
 
     ]
