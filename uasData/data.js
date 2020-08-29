@@ -26,10 +26,12 @@ function loadData() {
     connections = {}
     
     citiesD = [
+        //Finland
         {"x": 4774, "y": -11592, "name": "Helsinki"},
         {"x": 4531, "y": -11584, "name": "Jyvaskyla"},
         {"x": 4774, "y": -11893, "name": "Varkaus"},
         {"x": 4543, "y": -11424, "name": "Lahti"},
+        {"x": 4388, "y": -11424, "name": "Suur-Helsinki"},
     
 
     ]

@@ -1,7 +1,11 @@
 extra_connections = {
     'underground_blue_ice': [
+        //Finland
         ['Helsinki', 'Jyvaskyla'],
         ['Helsinki', 'Varkaus'],
+        ['Helsinki', 'Lahti'],
+        ['Lahti', 'Jyvaskyla'],
+        ['Lahti', 'Suur-Helsinki']
     ]
 };
 extra_cities = [
