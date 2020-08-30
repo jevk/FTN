@@ -32,6 +32,11 @@ function loadData() {
         {"x": 4774, "y": -11893, "name": "Varkaus"},
         {"x": 4543, "y": -11424, "name": "Lahti"},
         {"x": 4388, "y": -11424, "name": "Suur-Helsinki"},
+        {"x": 5209, "y": -12770, "name": "Inari"},
+        {"x": 4440, "y": -12400, "name": "Kingsland"},
+        {"x": 4666, "y": -12260, "name": "Ylikiiminki"},
+        {"x": 3785, "y": -11610, "name": "Pori"},
+        {"x": 3785, "y": -11765, "name": "Vaasa"},
 
         // Sweden
         {"x": 2718, "y": -11337, "name": "Vasteras Central"},
@@ -53,6 +58,7 @@ function loadData() {
 
         //Terra Mariana (CTM)
         {"x": 3876, "y": -11032, "name": "Hiiumaa"},
+        {"x": 4247, "y": -11235, "name": "Tallinn North"}, 
         {"x": 4265, "y": -11077, "name": "Tallinn Central"},
         {"x": 4616, "y": -11077, "name": "Tallinn East"},
         {"x": 4785, "y": -11077, "name": "Sillamae Central"},
@@ -66,6 +72,9 @@ function loadData() {
         {"x": 4658, "y": -10684, "name": "Cesis"},
         {"x": 4658, "y": -10842, "name": "Valga"},
         {"x": 5104, "y": -10684, "name": "Pskov"},
+
+        //Other
+
 
     ]
 
@@ -119,37 +128,34 @@ lineSeries = {
 }
 
 lineAttrs = {
-    "packed_ice": {
-        name: "Ice road",
-        stroke: "#0099cc"
-    },
-    "blue_ice": {
-        name: "Blue ice road",
-        stroke: "#3668b3"
-    },
-    "underground_packed_ice": {
-        name: "Underground ice road",
-        stroke: "#0099cc",
+    "ftn": {
+        name: "Finland (FTN)",
+        stroke: "#0088ff",
         strokeDasharray: "0.1 0.01",
     },
-    "underground_blue_ice": {
-        name: "Underground blue ice road",
-        stroke: "#3668b3",
+    "ctm": {
+        name: "Terra Mariana (CTM)",
+        stroke: "#000000",
         strokeDasharray: "0.1 0.01",
     },
-    "wip_ice": {
-        name: "WIP iceroad",
-        stroke: "#286a91",
-        strokeDasharray: "0.1 0.4",
+    "sweden": {
+        name: "Sweden",
+        stroke: "#d1c700",
+        strokeDasharray: "0.1 0.01"
+    },
+
+    "wip": {
+        name: "WIP Ice Road",
+        stroke: "#bfbfbf",
+        strokeDasharray: "0.4 0.2"
     }
 }
 
 speedObj = {
-    "packed_ice": 40,
-    "blue_ice": 60,
-    "underground_packed_ice": 40,
-    "underground_blue_ice": 60,
-    "wip_ice": -1,
+    "ctm": 50,
+    "ftn": 60,
+    "sweden": 40,
+    "wip": -1,
 
 }
 // Add lines
