@@ -148,7 +148,7 @@ lineAttrs = {
     "sweden": {
         name: "Sweden (VY)",
         stroke: "#d1c700",
-        strokeDasharray: "0.1 0"
+        strokeDasharray: "0.5 0.2"
     },
 
     "wip": {
