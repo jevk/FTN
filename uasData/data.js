@@ -74,6 +74,10 @@ function loadData() {
         {"x": 4658, "y": -10684, "name": "Cesis"},
         {"x": 4658, "y": -10842, "name": "Valga"},
         {"x": 5104, "y": -10684, "name": "Pskov"},
+        {"x": 3512, "y": -10439, "name": "Blaskog"},
+        {"x": 3167, "y": -10691, "name": "New Lechia Central"},
+        {"x": 2875, "y": -10902, "name": "Nya Asgard South"},
+        {"x": 4483, "y": -10492, "name": "Jelgava"},
 
         //Other
 

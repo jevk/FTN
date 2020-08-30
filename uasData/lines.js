@@ -20,12 +20,16 @@ extra_connections = {
         ['Rietavas-Siauliai', 'Klaipeda'],
         ['Klaipeda', 'Krolewiec'],
         ['Rietavas-Siauliai', 'Cesis'],
+        ['Rietavas-Siauliai', 'Jelgava'],
         //line 5
         ['Cesis', 'Pskov'],
         ['Cesis', 'Valga'],
         ['Valga', 'Tallinn East'],
-        //line 7
-        ['New Lechia North', 'Super-Alko'],
+        //line 15
+        ['Blaskog', 'Klaipeda'],
+        ['Blaskog', 'New Lechia Central'],
+        ['New Lechia Central', 'Nya Asgard South'],
+        ['Nya Asgard South', 'Nya Asgard West'],
     ],
     'ctmb': [
         //line 1
@@ -43,6 +47,7 @@ extra_connections = {
         ['Nordfold', 'Nya Asgard West'],
         ['Nya Asgard West', 'Nya Asgard Central'],
         ['Nya Asgard Central', 'New Lechia North'],
+        ['New Lechia North', 'Super-Alko'],
         //Line 4
         ['Kongsvinger Kungsgatan', 'Kongsvinger South'],
         ['Kongsvinger South', 'Karlstad'],
