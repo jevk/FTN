@@ -129,30 +129,30 @@ lineSeries = {
 
 lineAttrs = {
     "ftn": {
-        name: "Finland (FTN) - Blue Ice",
+        name: "Finland (FTN)",
         stroke: "#0088ff",
-        strokeDasharray: "0.1 0.01",
+        strokeDasharray: "0.1 0",
     },
     "ctm": {
         name: "Terra Mariana (CTM) - Packed Ice",
-        stroke: "#4a4a4a",
-        strokeDasharray: "0.1 0.01",
+        stroke: "#000000",
+        strokeDasharray: "0.5 0.2",
     },
     "ctmb": {
         name: "Terra Mariana (CTM) - Blue Ice",
-        stroke: "#2b2b2b",
-        strokeDasharray: "0.1 0.01",
+        stroke: "#000000",
+        strokeDasharray: "0.1 0",
     },
     "sweden": {
-        name: "Sweden - Packed Ice",
+        name: "Sweden (VY)",
         stroke: "#d1c700",
-        strokeDasharray: "0.1 0.01"
+        strokeDasharray: "0.1 0"
     },
 
     "wip": {
         name: "WIP Ice Road",
         stroke: "#bfbfbf",
-        strokeDasharray: "0.4 0.2"
+        strokeDasharray: "0.1 0.5"
     }
 }
 
