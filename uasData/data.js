@@ -129,17 +129,22 @@ lineSeries = {
 
 lineAttrs = {
     "ftn": {
-        name: "Finland (FTN)",
+        name: "Finland (FTN) - Blue Ice",
         stroke: "#0088ff",
         strokeDasharray: "0.1 0.01",
     },
     "ctm": {
-        name: "Terra Mariana (CTM)",
-        stroke: "#000000",
+        name: "Terra Mariana (CTM) - Packed Ice",
+        stroke: "#4a4a4a",
+        strokeDasharray: "0.1 0.01",
+    },
+    "ctmb": {
+        name: "Terra Mariana (CTM) - Blue Ice",
+        stroke: "#2b2b2b",
         strokeDasharray: "0.1 0.01",
     },
     "sweden": {
-        name: "Sweden",
+        name: "Sweden - Packed Ice",
         stroke: "#d1c700",
         strokeDasharray: "0.1 0.01"
     },
@@ -152,7 +157,8 @@ lineAttrs = {
 }
 
 speedObj = {
-    "ctm": 50,
+    "ctm": 40,
+    "ctmb": 60,
     "ftn": 60,
     "sweden": 40,
     "wip": -1,
