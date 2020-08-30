@@ -4,25 +4,29 @@ extra_connections = {
         ['Helsinki', 'Varkaus'],
         ['Helsinki', 'Lahti'],
         ['Lahti', 'Jyvaskyla'],
-        ['Lahti', 'Tallinn East'],
         ['Lahti', 'Suur-Helsinki'],
     ],
     'ctm': [
-        ['Tallinn North', 'Tallinn Central'],
+        //line 1
         ['Sillamae Castle', 'Sillamae Central'],
         ['Sillamae Central', 'Tallinn East'],
+        ['Tallinn North', 'Tallinn Central'],
         ['Tallinn East', 'Tallinn Central'],
         ['Tallinn Central', 'Hiiumaa'],
         ['Hiiumaa', 'BlackFall Central'],
         ['BlackFall Central', 'Arensburg'],
         ['Arensburg', 'Siauliai North'],
         ['Siauliai North', 'Rietavas-Siauliai'],
+        //line 10
         ['Rietavas-Siauliai', 'Klaipeda'],
         ['Klaipeda', 'Krolewiec'],
         ['Rietavas-Siauliai', 'Cesis'],
+        //line 5
+        ['Cesis', 'Pskov'],
         ['Cesis', 'Valga'],
         ['Valga', 'Tallinn East'],
-        ['Cesis', 'Pskov'],
+        //line 7
+        ['New Lechia North', 'BlackFall Central'],
     ],
     'sweden': [
         //Line 2
@@ -50,6 +54,9 @@ extra_connections = {
         ['Suur-Helsinki', 'Tallinn North'],
         ['Suur-Helsinki', 'Pori'],
         ['Pori', 'Vaasa'],
+
+        //Terra Mariana
+        ['Lahti', 'Tallinn East']
     ]
 };
 extra_cities = [
