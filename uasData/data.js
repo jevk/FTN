@@ -59,7 +59,7 @@ function loadData() {
         {"x": 2208, "y": -10900, "name": "Karlstad"},
 
         //Terra Mariana (CTM)
-        
+
         {"x": 3876, "y": -11032, "name": "Hiiumaa"},
         {"x": 4247, "y": -11235, "name": "Tallinn North"}, 
         {"x": 4265, "y": -11077, "name": "Tallinn Central"},

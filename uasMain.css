@@ -4,8 +4,8 @@ html {
 }
 
 body.dark-mode {
-    background-color: rgb(90, 89, 92);
-    color: rgb(48, 47, 48);
+    background-color: rgb(23, 19, 24);
+    color: rgb(252, 242, 255);
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 .dark-mode button, .dark-mode .buttonlike, .dark-mode input, .dark-mode select {
-    color: rgb(150, 146, 155);
+    color: rgb(255, 255, 255);
     background: rgb(49, 44, 52);
     border: 1px solid rgb(66, 57, 77);
     padding: 0px 8px 0px 8px;

@@ -62,34 +62,24 @@
     <div id="drag-thumb" draggable="true"></div>
     <div id="control-panel" class="panel">
         <div id="not-result">
-            <button onclick="control_close()" id="control-hide" class="hide-button">Hide</button>
-            <input type="text" id="from" name="" placeholder="Where are you?" list="city_list">
+            <button onclick="control_close()" id="control-hide" class="hide-button" style="font-family: 'dubai'">Hide</button>
+            <input type="text" id="from" name="" style="font-family: 'dubai'" placeholder="Where are you?" list="city_list">
             <br>
-            <input type="text" id="to" name="" placeholder="Where do you want to go?" list="city_list">
+            <input type="text" id="to" name="" style="font-family: 'dubai'" placeholder="Where do you want to go?" list="city_list">
             <br>
-            <button onclick="how_do_i_go()">Pathfind</button>
-            <button onclick="clear_path()">Clear</button>
+            <button onclick="how_do_i_go()" style="font-family: 'dubai'">Pathfind</button>
+            <button onclick="clear_path()" style="font-family: 'dubai'">Clear</button>
         </div>
         <div id="result"></div>
     </div>
     <div id="legend-panel" class="panel">
-        <button onclick="legend_close()" id="legend-hide" class="hide-button">Hide</button>
+        <button onclick="legend_close()" id="legend-hide" class="hide-button" style="font-family: 'dubai'">Hide</button>
         <label for="toggleDarkMode">Dark mode</label>
         <input id="toggleDarkMode" oninput="toggleDarkMode(this)" type="checkbox" autocomplete="off" />
         <br>
         <br>
         <hr>
-        <div id="legend"></div>
-
-        <br>
-        <br>
-        visits
-        <div></div>
-        <!-- hitwebcounter Code START -->
-        <a href="https://www.hitwebcounter.com" target="_blank">
-        <img src="https://hitwebcounter.com/counter/counter.php?page=7278193&style=0007&nbdigits=5&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" >
-        </a>        
-        <br><br>
+        <div style="font-family: 'dubai'" id="legend"></div>
 
     </div>
 
@@ -118,8 +108,8 @@
     </div>
 
     <div id="show-buttons">
-        <button id="control-show" onclick="control_open()">Show pathfinder</button>
-        <button id="legend-show" onclick="legend_open()">Show info</button>
+        <button id="control-show" onclick="control_open()" style="font-family: 'dubai'">Show pathfinder</button>
+        <button id="legend-show" onclick="legend_open()" style="font-family: 'dubai'">Show info</button>
     </div>
 </body>
 </html>
