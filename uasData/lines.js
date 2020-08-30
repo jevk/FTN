@@ -12,8 +12,8 @@ extra_connections = {
         ['Sillamae Central', 'Tallinn East'],
         ['Tallinn North', 'Tallinn Central'],
         ['Tallinn East', 'Tallinn Central'],
-        ['Hiiumaa', 'BlackFall Central'],
-        ['BlackFall Central', 'Arensburg'],
+        ['Hiiumaa', 'Super-Alko'],
+        ['Super-Alko', 'Arensburg'],
         ['Arensburg', 'Siauliai North'],
         ['Siauliai North', 'Rietavas-Siauliai'],
         //line 10
@@ -25,7 +25,7 @@ extra_connections = {
         ['Cesis', 'Valga'],
         ['Valga', 'Tallinn East'],
         //line 7
-        ['New Lechia North', 'BlackFall Central'],
+        ['New Lechia North', 'Super-Alko'],
     ],
     'ctmb': [
         //line 1

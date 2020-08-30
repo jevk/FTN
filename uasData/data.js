@@ -37,8 +37,10 @@ function loadData() {
         {"x": 4666, "y": -12260, "name": "Ylikiiminki"},
         {"x": 3785, "y": -11610, "name": "Pori"},
         {"x": 3785, "y": -11765, "name": "Vaasa"},
+        {"x": 3876, "y": -10856, "name": "Super-Alko"},
 
         // Sweden
+
         {"x": 2718, "y": -11337, "name": "Vasteras Central"},
         {"x": 2807, "y": -11254, "name": "Vasteras South"},
         {"x": 2848, "y": -10984, "name": "Nya Asgard Central"},
@@ -57,13 +59,13 @@ function loadData() {
         {"x": 2208, "y": -10900, "name": "Karlstad"},
 
         //Terra Mariana (CTM)
+        
         {"x": 3876, "y": -11032, "name": "Hiiumaa"},
         {"x": 4247, "y": -11235, "name": "Tallinn North"}, 
         {"x": 4265, "y": -11077, "name": "Tallinn Central"},
         {"x": 4616, "y": -11077, "name": "Tallinn East"},
         {"x": 4785, "y": -11077, "name": "Sillamae Central"},
         {"x": 5052, "y": -11077, "name": "Sillamae Castle"},
-        {"x": 3876, "y": -10856, "name": "BlackFall Central"},
         {"x": 3876, "y": -10746, "name": "Arensburg"},
         {"x": 3980, "y": -10540, "name": "Siauliai North"},
         {"x": 3980, "y": -10402, "name": "Rietavas-Siauliai"},
