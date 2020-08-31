@@ -10,7 +10,6 @@ extra_connections = {
         //line 1
         ['Sillamae Castle', 'Sillamae Central'],
         ['Sillamae Central', 'Tallinn East'],
-        ['Tallinn North', 'Tallinn Central'],
         ['Tallinn East', 'Tallinn Central'],
         ['Hiiumaa', 'Super-Alko'],
         ['Super-Alko', 'Arensburg'],
@@ -24,7 +23,8 @@ extra_connections = {
         //line 5
         ['Cesis', 'Pskov'],
         ['Cesis', 'Valga'],
-        ['Valga', 'Tallinn East'],
+        ['Valga', 'Ex-Tartu'],
+        ['Ex-Tartu', 'Tallinn East'],
         //line 15
         ['Blaskog', 'Klaipeda'],
         ['Blaskog', 'New Lechia Central'],
@@ -34,6 +34,8 @@ extra_connections = {
     'ctmb': [
         //line 1
         ['Tallinn Central', 'Hiiumaa'],
+        //other stuff
+        ['Tallinn North', 'Tallinn Central'],
     ],
     'sweden': [
         //Line 2
@@ -69,6 +71,10 @@ extra_connections = {
 
         //Terra Mariana
         ['Lahti', 'Tallinn East'],
+        ['Super-Alko', 'Parnu Beach'],
+        ['Parnu Beach', 'Dorbat Palace'],
+        ['Dorbat Palace', 'Ex-Tartu'],
+        ['Ex-Tartu', 'Pskow North'],
     ]
 };
 extra_cities = [

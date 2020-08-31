@@ -78,6 +78,10 @@ function loadData() {
         {"x": 3167, "y": -10691, "name": "New Lechia Central"},
         {"x": 2875, "y": -10902, "name": "Nya Asgard South"},
         {"x": 4483, "y": -10492, "name": "Jelgava"},
+        {"x": 4237, "y": -10906, "name": "Parnu Beach"},
+        {"x": 4439, "y": -10906, "name": "Dorbat Palace"},
+        {"x": 4658, "y": -10906, "name": "Ex-Tartu"},
+        {"x": 5016, "y": -10906, "name": "Pskow North"},
 
         //Other
         
