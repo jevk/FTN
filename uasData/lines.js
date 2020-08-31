@@ -74,7 +74,7 @@ extra_connections = {
         ['Super-Alko', 'Parnu Beach'],
         ['Parnu Beach', 'Dorbat Palace'],
         ['Dorbat Palace', 'Ex-Tartu'],
-        ['Ex-Tartu', 'Pskow North'],
+        ['Ex-Tartu', 'Pskov North'],
     ]
 };
 extra_cities = [

@@ -81,7 +81,7 @@ function loadData() {
         {"x": 4237, "y": -10906, "name": "Parnu Beach"},
         {"x": 4439, "y": -10906, "name": "Dorbat Palace"},
         {"x": 4658, "y": -10906, "name": "Ex-Tartu"},
-        {"x": 5016, "y": -10906, "name": "Pskow North"},
+        {"x": 5016, "y": -10906, "name": "Pskov North"},
 
         //Other
         
