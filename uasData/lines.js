@@ -63,8 +63,12 @@ extra_connections = {
         ['Suur-Helsinki', 'Pori'],
         ['Pori', 'Vaasa'],
 
+        ['Varkaus', 'Jordetbyen'],
+        ['Jordetbyen', 'Pyramiden'],
+        ['Pyramiden', 'Longyearbyen'],
+
         //Terra Mariana
-        ['Lahti', 'Tallinn East']
+        ['Lahti', 'Tallinn East'],
     ]
 };
 extra_cities = [

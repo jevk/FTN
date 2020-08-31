@@ -80,8 +80,10 @@ function loadData() {
         {"x": 4483, "y": -10492, "name": "Jelgava"},
 
         //Other
-
-
+        
+        {"x": 4000, "y": -15000, "name": "Jordetbyen"},
+        {"x": 2758, "y": -14714, "name": "Pyramiden"},
+        {"x": 2758, "y": -14552, "name": "Longyearbyen"},
     ]
 
 
