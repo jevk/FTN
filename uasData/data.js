@@ -141,17 +141,17 @@ lineAttrs = {
     },
     "ctm": {
         name: "Terra Mariana (CTM) - Packed Ice",
-        stroke: "#000000",
+        stroke: "#d1c700",
         strokeDasharray: "0.5 0.2",
     },
     "ctmb": {
         name: "Terra Mariana (CTM) - Blue Ice",
-        stroke: "#000000",
+        stroke: "#d1c700",
         strokeDasharray: "0.1 0",
     },
     "sweden": {
         name: "Sweden (VY)",
-        stroke: "#d1c700",
+        stroke: "#248687",
         strokeDasharray: "0.5 0.2"
     },
 
