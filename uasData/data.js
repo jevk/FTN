@@ -83,6 +83,22 @@ function loadData() {
         {"x": 4658, "y": -10906, "name": "Ex-Tartu"},
         {"x": 5016, "y": -10906, "name": "Pskov North"},
 
+        //Haiti
+        {"x": -13622, "y": -6274, "name": "Tortuga"},
+        {"x": -13913, "y": -3842, "name": "Aquapolis"},
+        {"x": -14078, "y": -3872, "name": "Neu-Cassel"},
+        {"x": -14536, "y": -3548, "name": "Jamaica"},
+        {"x": -14536, "y": -3854, "name": "pilon"},
+        {"x": -14537, "y": -4483, "name": "Adros Island"},
+        {"x": -14456, "y": -4716, "name": "New Providence"},
+        {"x": -13352, "y": -4759, "name": "Bermuda Triangle"},
+        {"x": -14965, "y": -4347, "name": "Santa Clara"},
+        {"x": -15098, "y": -4286, "name": "East Havana"},
+        {"x": -15336, "y": -4423, "name": "East-Havana"},
+        {"x": -15528, "y": -4307, "name": "Central-Havana"},
+        {"x": -15750, "y": -4219, "name": "West-Havana"},
+        {"x": -17514, "y": -3426, "name": "Tabasco"},
+
         //Other
         
         {"x": 4000, "y": -15000, "name": "Jordetbyen"},
