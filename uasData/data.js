@@ -194,6 +194,7 @@ speedObj = {
     "ctmb": 60,
     "ftn": 60,
     "sweden": 40,
+    "haiti": 40,
     "wip": -1,
 
 }
