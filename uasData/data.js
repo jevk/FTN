@@ -178,7 +178,7 @@ lineAttrs = {
     },
     "haiti": {
         name: "Haiti",
-        stroke: "#000000",
+        stroke: "#3449eb",
         strokeDasharray: "0.5 0.2",
     },
 

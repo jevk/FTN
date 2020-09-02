@@ -68,9 +68,6 @@ extra_connections = {
         ['Pilon', 'Neu-Cassel'],
         ['Neu-Cassel', 'Aquapolis'],
         ['Aquapolis', 'Tortuga'],
-        ['', ''],
-        ['', ''],
-        ['', ''],
     ],
     'wip': [
         //Finland
